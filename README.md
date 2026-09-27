@@ -10,3 +10,14 @@ A formal open-source license will be specified upon acceptance.
 
 ## 1. Project Overview
 This repository contains the GAMS optimization model, input data, and plotting scripts developed coupled electricity-CO2 system in China's power sector decarbonization.
+
+The framework enables:
+
+1. Scenario-based system optimization
+
+2. Techno-economic analysis
+
+3. Figure reproduction using processed model outputs
+
+## 2. Reproduction Workflow
+### 2.1 Run Optimization Model
