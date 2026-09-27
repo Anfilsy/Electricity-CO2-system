@@ -39,3 +39,7 @@ Input_data/
 *  CO2 system — provincial level: Run `Cnet_Prov/Run_Cnet_prov.gms`
 
 *  CO2 system — prefecture level: Run `Cnet_Pref/Run_Cnet_pref.gms`
+
+4. Transfer results between successive steps through intermediate `.gdx` files. Before running each subsequent model, ensure that the required `.gdx` files have been generated or prepared from the preceding results and that their paths and filenames match the model’s loading statements.
+
+5. The model will generate .gdx output files upon completion.
