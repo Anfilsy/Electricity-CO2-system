@@ -21,3 +21,21 @@ The framework enables:
 
 ## 2. Reproduction Workflow
 ### 2.1 Run Optimization Model
+If reproducing optimization from scratch:
+
+1. Navigate to:
+```
+GAMS_model/
+```
+2. Ensure the model reads input data from:
+```
+Input_data/
+```
+3. Run the electricity and CO2 system models sequentially using GAMS:
+*  Electricity system — provincial level: Run `ENet_Prov/Run_Enet_prov.gms`
+
+*  Electricity system — prefecture level: Run `ENet_Pref/Run_Enet_prov.gms`
+
+*  CO2 system — provincial level: Run `Cnet_Prov/Run_Cnet_prov.gms`
+
+*  CO2 system — prefecture level: Run `Cnet_Pref/Run_Cnet_pref.gms`
