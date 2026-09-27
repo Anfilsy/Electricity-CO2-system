@@ -1,0 +1,7 @@
+Technology,,ro,mu,lm,cfn,cfm,etae,etaq,ltm,eta
+ KOH with Ca looping,kclg,0.2,0,0.9,0.3,0.9,0.367,1.472,20,
+ KOH with BPMED,kbpd,0.2,0,0.9,0.3,0.9,6.25,0,20,
+Solid sorbent,sdbn,0.2,0,0.9,0.3,0.9,0.275,2.722,20,
+MgO looping,molg,0.2,0,0.9,0.3,0.9,0.217,1.722,20,
+Compresser,comp,0.3,0,0.95,0.3,1,,,15,0.95
+Carbon Storage,dsac,1,0,0.93,0,1,,,40,0.99
