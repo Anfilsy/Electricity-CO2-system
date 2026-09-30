@@ -35,7 +35,7 @@ Input_data/
 
 4. Input data and results are transferred into optimization model through `.gdx` files. Ensure that the required files have been generated from the input data or model results and that their paths and filenames match the model’s loading statements.
 
-6. The model will generate .gdx output files upon completion.
+6. The model will generate `.gdx` output files upon completion.
 
 ### 2.2 Generate Figures
 1. Navigate to:
